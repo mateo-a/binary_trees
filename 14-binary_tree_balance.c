@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * find_balance - finds the difference between the left and right nodes
+ * tree_balance - finds the difference between the left and right nodes
  * from the tree
  * @tree: tree trunk to start from
  * Return: height of each branch
